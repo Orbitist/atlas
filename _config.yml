@@ -13,9 +13,9 @@ author :
   twitter : TheOrbitist
   web : http://www.orbitist.com
 
-production_url : orbitist.com/atlas
+production_url : http://orbitist.github.io/atlas/
 
-baseurl : http://orbitist.com/atlas
+baseurl : http://orbitist.github.io/atlas/
         
 analytics :
   google : 
